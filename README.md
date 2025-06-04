@@ -83,14 +83,6 @@ This guide walks you through the complete lifecycle of a help desk ticket in osT
 
 **Observation**: After agents log out and back in, tickets are now visible and routing correctly, resolving the issue.
 
-
-
-
-
-
-
-
-
 ---
 
 ### Step 2: Ticket Submission (Intake)
@@ -98,10 +90,10 @@ This guide walks you through the complete lifecycle of a help desk ticket in osT
 <table>
   <tr>
     <td>
-      <img width="1000" alt="TL6" src="https://github.com/user-attachments/assets/814f98a5-53d2-4961-8d43-0d85538b8342" />
+      <img width="1000" alt="TL6" src="https://github.com/user-attachments/assets/814f98a5-53d2-4961-8d43-0d85538b8342"/>
     </td>
     <td>
-      <img width="1000" alt="TL7" src="https://github.com/user-attachments/assets/91989873-058a-4867-8567-27115ae321f3" />
+      <img width="1000" alt="TL7" src="https://github.com/user-attachments/assets/91989873-058a-4867-8567-27115ae321f3"/>
     </td>
   </tr>
 </table>
@@ -160,13 +152,15 @@ This guide walks you through the complete lifecycle of a help desk ticket in osT
       <img width="1000" alt="TL13" src="https://github.com/user-attachments/assets/e4779e26-a5d6-465a-9cdd-1b00d7b168d4" />
     </td>
     <td>
-      <img width="745" alt="TL14" src="https://github.com/user-attachments/assets/2a8167be-5421-49ca-be74-7199c02ed775" />
+      <img width="1000" alt="TL14" src="https://github.com/user-attachments/assets/2a8167be-5421-49ca-be74-7199c02ed775" />
     </td>
   </tr>
 </table>
 
+<br/><br/>
+
 <p>
-<img width="750" alt="TL17" src="https://github.com/user-attachments/assets/c8061ca7-526b-4ff8-8ff1-be961b6b827f" />
+<img width="1000" alt="TL17" src="https://github.com/user-attachments/assets/c8061ca7-526b-4ff8-8ff1-be961b6b827f" />
 </p>
 
 **Observation**: The ticket thread logs all changes, ensuring transparency and tracking of updates.
