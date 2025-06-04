@@ -171,3 +171,119 @@ This guide walks you through the complete lifecycle of a help desk ticket in osT
 
 **Observation**: The ticket thread logs all changes, ensuring transparency and tracking of updates.
 
+---
+
+### Step 4: Issue Investigation and Agent Assignment
+
+<table>
+  <tr>
+    <td>
+      <img width="900" alt="TL18" src="https://github.com/user-attachments/assets/be7914a8-c172-4f02-8a8f-84d0cd0e838b" />
+    </td>
+    <td>
+      <img width="1000" alt="TL19" src="https://github.com/user-attachments/assets/93755b1e-2ff0-46a3-b0ee-700bb950f62e" />
+    </td>
+  </tr>
+</table>
+
+1. **Switch Agent**:
+   - Log out as John Doe and log in as Jane Doe:
+     - Username: `jane_doe`
+     - Password: `Password1`
+   - Open Karen's ticket, assigned to the Digital Banking team.
+
+<p>
+<img width="750" alt="TL20" src="https://github.com/user-attachments/assets/10d2a9c8-ed61-4b33-89a0-62f55e06b12f" />
+</p>
+
+2. **Assign to Specific Agent**:
+   - Click **Unassigned**, select **Jane Doe** as the assignee, add a comment, and click **Assign**.
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="TL21" src="https://github.com/user-attachments/assets/86526090-b05f-40aa-8b95-4a3702775fc2" />
+    </td>
+    <td>
+      <img width="1000" alt="TL22" src="https://github.com/user-attachments/assets/8c21bd15-908f-46da-8ceb-8545605921d6" />
+    </td>
+  </tr>
+</table>
+
+**Observation**: The ticket now reflects Jane Doe as the assigned agent, improving tracking within the team.
+
+---
+
+### Step 5: Resolution and Closure
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="TL23" src="https://github.com/user-attachments/assets/8ac8c93b-d321-4ec9-9141-8a29f335c82a" />
+    </td>
+    <td>
+      <img width="1000" alt="TL24" src="https://github.com/user-attachments/assets/a46c91b4-346a-4b63-b14f-b740bdbff0ae" />
+    </td>
+  </tr>
+</table>
+
+1. **Update the User**:
+   - Click **Post Reply**.
+   - Notify Karen that the issue's cause was identified, resolved, and online banking is operational again.
+   - Click **Post**.
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="TL25" src="https://github.com/user-attachments/assets/8e5f1853-f0a8-4eb4-b984-a447d776e1fa" />
+    </td>
+    <td>
+      <img width="1000" alt="TL26" src="https://github.com/user-attachments/assets/09863613-cd8e-4d47-8ac3-04f6a374251c" />
+    </td>
+  </tr>
+</table>
+
+2. **Close the Ticket**:
+   - Click **Status**, select **Resolved**, add a comment, and click **Close**.
+
+<table>
+  <tr>
+    <td>
+      <img width="900" alt="TL27" src="https://github.com/user-attachments/assets/e8409bef-46a0-47f6-84b5-e0bb4fa04ac3" />
+    </td>
+    <td>
+      <img width="1000" alt="TL28" src="https://github.com/user-attachments/assets/a230321a-a24f-4086-adbe-06593f30fe53" />
+    </td>
+  </tr>
+</table>
+
+**Observation**: Ticket #206084 is resolved, with all actions logged in the ticket thread for accountability.
+
+---
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<div align="center"> <img src="https://github.com/user-attachments/assets/05912b72-7915-43fc-ab99-f9ba267ae3ab" width="75%"> </div>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+## Conclusion
+
+You've successfully navigated the full lifecycle of a help desk ticket in osTicket, from submission to resolution, while resolving a critical system issue along the way.
+
+**Key Achievements:**
+- Diagnosed and fixed a ticket routing bug by removing the Maintenance department
+- Created a ticket as a user and processed it through agent workflows
+- Updated ticket settings (SLA, Help Topic, and assignments) for efficient handling
+- Communicated updates to the user and closed the ticket with full documentation
+- Demonstrated osTicket's tracking and transparency features via the ticket thread
+
+Experiment with creating and managing additional tickets to deepen your understanding. Remember to stop your Azure VMs to avoid unnecessary charges.
+
+---
+
+<div align="center">
+
+<a href="https://www.github.com/mxwllslvr">- BACK TO MAIN PAGE -</a>
+
+</div>
