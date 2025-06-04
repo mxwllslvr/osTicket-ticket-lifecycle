@@ -46,7 +46,7 @@ This guide walks you through the complete lifecycle of a help desk ticket in osT
 (Log into VM created in [osTicket Installation and Prerequisites](https://github.com/mxwllslvr/osTicket-prerequisites-and-installation). You will be using it for the remainder of this tutorial.)
 
 <p>
-<img width="750" alt="TL1" src="https://github.com/user-attachments/assets/5877500b-d073-4a08-a058-87692a50ad09"/>
+<img width="1000" alt="TL1" src="https://github.com/user-attachments/assets/5877500b-d073-4a08-a058-87692a50ad09"/>
 </p>
 
 1. **Issue Identification**: Clients reported that submitted tickets are not visible to agents. A test ticket confirmed the issue—tickets are created but not appearing in the agent view.
@@ -109,7 +109,7 @@ This guide walks you through the complete lifecycle of a help desk ticket in osT
    - Click **Create Ticket**.
 
 <p>
-<img width="750" alt="TL10" src="https://github.com/user-attachments/assets/3c217d58-41b8-4032-8c8f-b6e850195156" />
+<img width="1000" alt="TL10" src="https://github.com/user-attachments/assets/3c217d58-41b8-4032-8c8f-b6e850195156" />
 </p>
 
 **Observation**: The ticket is successfully created and ready for agent review.
@@ -137,7 +137,7 @@ This guide walks you through the complete lifecycle of a help desk ticket in osT
    - Locate and open Karen's ticket.
 
 <p>
-<img width="750" alt="TL11" src="https://github.com/user-attachments/assets/72211831-3c5f-4c79-a901-43f036c3dc59"/>
+<img width="1000" alt="TL11" src="https://github.com/user-attachments/assets/72211831-3c5f-4c79-a901-43f036c3dc59"/>
 </p>
 
 2. **Review Ticket Details**: The issue appears critical based on Karen's description. Assume a follow-up call confirmed its severity.
@@ -172,7 +172,7 @@ This guide walks you through the complete lifecycle of a help desk ticket in osT
 <table>
   <tr>
     <td>
-      <img width="900" alt="TL18" src="https://github.com/user-attachments/assets/be7914a8-c172-4f02-8a8f-84d0cd0e838b" />
+      <img width="1000" alt="TL18" src="https://github.com/user-attachments/assets/be7914a8-c172-4f02-8a8f-84d0cd0e838b" />
     </td>
     <td>
       <img width="1000" alt="TL19" src="https://github.com/user-attachments/assets/93755b1e-2ff0-46a3-b0ee-700bb950f62e" />
@@ -187,7 +187,7 @@ This guide walks you through the complete lifecycle of a help desk ticket in osT
    - Open Karen's ticket, assigned to the Digital Banking team.
 
 <p>
-<img width="750" alt="TL20" src="https://github.com/user-attachments/assets/10d2a9c8-ed61-4b33-89a0-62f55e06b12f" />
+<img width="1000" alt="TL20" src="https://github.com/user-attachments/assets/10d2a9c8-ed61-4b33-89a0-62f55e06b12f" />
 </p>
 
 2. **Assign to Specific Agent**:
@@ -243,7 +243,7 @@ This guide walks you through the complete lifecycle of a help desk ticket in osT
 <table>
   <tr>
     <td>
-      <img width="900" alt="TL27" src="https://github.com/user-attachments/assets/e8409bef-46a0-47f6-84b5-e0bb4fa04ac3" />
+      <img width="1000" alt="TL27" src="https://github.com/user-attachments/assets/e8409bef-46a0-47f6-84b5-e0bb4fa04ac3" />
     </td>
     <td>
       <img width="1000" alt="TL28" src="https://github.com/user-attachments/assets/a230321a-a24f-4086-adbe-06593f30fe53" />
