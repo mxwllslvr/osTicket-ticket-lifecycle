@@ -27,7 +27,7 @@ This guide walks you through the complete lifecycle of a help desk ticket in osT
 
 ## Prerequisites
 
-- [osTicket Installation and Prerequisites](https://github.com/mxwllslvr/osTicket-prerequisites-and-installation)
+- [osTicket Prerequisites and Installation](https://github.com/mxwllslvr/osTicket-prerequisites-and-installation)
 - [osTicket Post Installation Configuration](https://github.com/mxwllslvr/osTicket-post-installation-configuration)
 
 ## Ticket Lifecycle Stages
